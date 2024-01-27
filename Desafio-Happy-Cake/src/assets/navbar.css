@@ -1,0 +1,23 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerHome{
+    padding-inline: 50px;
+}
+.parteUno{
+    gap: 30px;
+}
+.home, .contacto{
+    gap: 10px;
+}
+
+img {
+    height: 25px;
+}
+
+.png {
+    height: 40px;
+}
